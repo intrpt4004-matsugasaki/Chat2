@@ -5,9 +5,9 @@ Chat server/client written in C.
 
 ## ダウンロード&ビルド&実行
 ```sh
-git clone https://github.com/RotationE/Chat2.git
+git clone https://github.com/intrpt4004-matsugasaki/Chat2.git
 cd Chat2
-git clone https://github.com/RotationE/NeoC.git
+git clone https://github.com/intrpt4004-matsugasaki/NeoC.git
 cd NeoC
 cp -r include/ ../src
 mkdir build
